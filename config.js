@@ -38,7 +38,7 @@ module.exports = {
   //_________________________________________________________________________________________________________________________________
   STICKER_DATA: "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝚂𝚞𝚛𝚎𝚜𝚑☘️",
   //_________________________________________________________________________________________________________________________________
-  WELCOME_MSG: process.env.WELCOME_MSG || "👋 Hola *@user* Bienvenido a nuestro grupo*@gname*\n*Total Miembros:* @count\n*Descripción del grupo:*\n@gdesc {pp}",
+  WELCOME_MSG: process.env.WELCOME_MSG || "👋 ¡Hola! *@user* Bienvenido a nuestro grupo*@gname*\n*Total Miembros:* @count\n*Descripción del grupo:*\n@gdesc {pp}",
   //_________________________________________________________________________________________________________________________________
   GOODBYE_MSG: process.env.GOODBYE_MSG || "👋 Adiós *@user* De *@gname*\n*Total Miembros:* @count {pp}",
   //_________________________________________________________________________________________________________________________________
